@@ -4,3 +4,7 @@ def more_hello():
 
 def more_goog():
     return "go"
+
+
+def add2(a, b):
+    return a + b
